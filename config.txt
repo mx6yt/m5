@@ -1,6 +1,6 @@
 token=
-owner=  
-prefix= 
-game= Type help
+owner=  493559451731623961
+prefix= 5
+game= 5help
 stayinchannel=true
 songinstatus=true
